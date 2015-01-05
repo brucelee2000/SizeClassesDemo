@@ -165,10 +165,6 @@
                                 <exclude reference="cIT-G8-BAx"/>
                                 <exclude reference="xrk-v8-Jnn"/>
                                 <exclude reference="yVA-L9-j4o"/>
-                                <exclude reference="4pU-Zo-T09"/>
-                                <exclude reference="gF8-od-yxg"/>
-                                <exclude reference="hBo-B9-dWc"/>
-                                <exclude reference="k5S-7I-klF"/>
                                 <include reference="4IY-Rz-K6p"/>
                                 <exclude reference="AbS-6C-Ppf"/>
                                 <include reference="Mey-Or-90j"/>
@@ -182,6 +178,10 @@
                                 <include reference="oIZ-B7-v5u"/>
                                 <exclude reference="tHi-vx-yjj"/>
                                 <include reference="yri-u0-BGB"/>
+                                <exclude reference="4pU-Zo-T09"/>
+                                <exclude reference="gF8-od-yxg"/>
+                                <exclude reference="hBo-B9-dWc"/>
+                                <exclude reference="k5S-7I-klF"/>
                                 <include reference="bLB-5M-gYF"/>
                                 <include reference="hhS-xP-Ijb"/>
                             </mask>
